@@ -1,0 +1,21 @@
+[submodule "ReactJS/react-portfolio"]
+	path = ReactJS/react-portfolio
+	url = https://github.com/ssaiganesh/react-portfolio.git
+[submodule "ReactJS/Amazon-Clone"]
+	path = ReactJS/Amazon-Clone
+	url = https://github.com/ssaiganesh/Amazon-Clone.git
+[submodule "ReactJS/Task-Tracker-React"]
+	path = ReactJS/Task-Tracker-React
+	url = https://github.com/ssaiganesh/Task-Tracker-React.git
+[submodule "ReactJS/Netflix-Clone"]
+	path = ReactJS/Netflix-Clone
+	url = https://github.com/ssaiganesh/Netflix-Clone.git
+[submodule "ReactTS/typescript-react"]
+	path = ReactTS/typescript-react
+	url = https://github.com/ssaiganesh/typescript-react.git
+[submodule "ReactTS/Typescript-Basics"]
+	path = ReactTS/Typescript-Basics
+	url = https://github.com/ssaiganesh/Typescript-Basics.git
+[submodule "ReactTS/shopping-cart-reactTS"]
+	path = ReactTS/shopping-cart-reactTS
+	url = https://github.com/ssaiganesh/shopping-cart-reactTS.git
